@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/bayasys/SnakeNLadder/src/snakenladder/resources/utils/Constants.java</file>
+            <file>file:/home/bayasys/SnakeNLadder/src/snakenladder/InitForm.java</file>
+            <file>file:/home/bayasys/SnakeNLadder/src/snakenladder/objects/player.java</file>
+            <file>file:/home/bayasys/SnakeNLadder/src/snakenladder/objects/Snake.java</file>
+            <file>file:/home/bayasys/SnakeNLadder/src/snakenladder/objects/GamePanel.java</file>
+            <file>file:/home/bayasys/SnakeNLadder/src/snakenladder/objects/board.java</file>
+            <file>file:/home/bayasys/SnakeNLadder/src/snakenladder/objects/SprintObject.java</file>
+            <file>file:/home/bayasys/SnakeNLadder/src/snakenladder/objects/cell.java</file>
+            <file>file:/home/bayasys/SnakeNLadder/src/snakenladder/resources/utils/input.json</file>
+            <file>file:/home/bayasys/SnakeNLadder/src/snakenladder/objects/Ladder.java</file>
+        </group>
+    </open-files>
+</project-private>
